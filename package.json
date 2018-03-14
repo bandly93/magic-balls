@@ -1,0 +1,19 @@
+{
+  "name": "plinko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "dependencies": {
+    "matter-js": "^0.14.1",
+    "webpack-dev-server": "^3.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "author": "Band Ly",
+  "license": "ISC"
+}
